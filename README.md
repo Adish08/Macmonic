@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f08f298f-ef15-4ea3-9cbc-c6bec90bb45d)
+
 # Mac Keys for Windows 🍎 ;) <span style="float: right;">![](https://api.visitorbadge.io/api/VisitorHit?user=Adish08&repo=Macmonic&countColor=%23228B22)</span>
 Macmonic comes from "mnemonic" (pronounced: nuh-MON-ik) - a memory aid technique - combined with "Mac", representing how this tool helps Mac users (while working with Windows) remember and use familiar Mac keyboard shortcuts without having to relearn new muscle memory.
 
