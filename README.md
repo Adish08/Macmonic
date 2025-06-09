@@ -1,8 +1,7 @@
-# Mac Keys for Windows 🍎
+# Mac Keys for Windows 🍎 ;) 
+Macmonic comes from "mnemonic" (pronounced: nuh-MON-ik) - a memory aid technique - combined with "Mac", representing how this tool helps Mac users (while working with Windows) remember and use familiar Mac keyboard shortcuts without having to relearn new muscle memory.
 
-Macmonic brings the familiar Mac keyboard shortcuts to your Windows machine with this AutoHotkey script. Perfect for Mac users working with Windows or anyone who prefers Mac-style shortcuts.
-
-## Features ✨
+## Features ✨ (Make sure to ⭐ the repo, if you found it useful.)
 
 ### Core Mac Shortcuts
 - **Alt+C/V/X** → Copy/Paste/Cut
@@ -72,4 +71,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Made with love by Adish** ❤️
 
-*Perfect for Mac users using Windows or anyone who loves Mac-style keys!*
+*Perfect for Mac users using Windows or anyone who loves Mac-style shortcuts!* 
