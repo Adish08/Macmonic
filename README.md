@@ -69,6 +69,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Made with love by Adish** ❤️
+**Made with love by [Adish](https://t.me/CodeCauldron)** ❤️
 
 *Perfect for Mac users using Windows or anyone who loves Mac-style shortcuts!* 
