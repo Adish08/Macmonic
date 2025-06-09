@@ -33,7 +33,7 @@ Macmonic comes from "mnemonic" (pronounced: nuh-MON-ik) - a memory aid technique
 ## Installation 📦
 
 1. **Download AutoHotkey v2.0** from [autohotkey.com](https://www.autohotkey.com/)
-2. **Download** the `Macmonic.ahk` script from this repository
+2. **Download** the `macmonic.ahk`script from [here](https://github.com/Adish08/Macmonic/blob/main/macmonic.ahk)
 3. **Run** the script by double-clicking it
 
 ### Adding to Startup (Optional)
